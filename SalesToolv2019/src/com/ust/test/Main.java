@@ -10,6 +10,7 @@ public class Main {
 	}
 	public static void displayGreeting(){
 		System.out.println("Success!!");
+		System.out.println("Test12");
 	}
 
 }
